@@ -1,5 +1,5 @@
 # Dosa
 
-Dosa flour 
-Karam 
-oil 
+* Dosa flour 
+* Karam 
+* oil 
