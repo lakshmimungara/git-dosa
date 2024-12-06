@@ -1,10 +1,3 @@
-# Dosa 
+# special dosa 
 
-* Dosa flour 
-* Karam 
-* Oil 
-
-# Egg dosa 
- 
-* 3 eggs 
-
+* dosa battar 
