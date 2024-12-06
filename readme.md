@@ -1,5 +1,10 @@
-# Dosa
+# Dosa 
 
 * Dosa flour 
 * Karam 
-* oil 
+* Oil 
+
+# Egg dosa 
+ 
+* 3 eggs 
+
